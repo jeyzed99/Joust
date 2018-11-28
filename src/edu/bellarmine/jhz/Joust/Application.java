@@ -3,7 +3,7 @@ package edu.bellarmine.jhz.Joust;
 /**
  * This class tests our Knight object.
  * @author Rob Kelley
- * @version 1.1
+ * @version 1.2
  * Lab11 - Knight Project
  * Fall 2018
  */
